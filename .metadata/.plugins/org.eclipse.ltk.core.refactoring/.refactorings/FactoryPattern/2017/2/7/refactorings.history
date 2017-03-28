@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Factory&apos; to &apos;ShapeFactory&apos;&#x0D;&#x0A;- Original project: &apos;FactoryPattern&apos;&#x0D;&#x0A;- Original element: &apos;Factory&apos;&#x0D;&#x0A;- Renamed element: &apos;ShapeFactory&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Factory&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Factory.java[Factory" matchStrategy="1" name="ShapeFactory" qualified="false" references="true" similarDeclarations="false" stamp="1487045783327" textual="false" version="1.0"/>
+</session>

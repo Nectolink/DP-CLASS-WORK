@@ -1,0 +1,7 @@
+import Main.User;
+
+public interface IDAL {
+
+	void Add(User usr);
+	
+}

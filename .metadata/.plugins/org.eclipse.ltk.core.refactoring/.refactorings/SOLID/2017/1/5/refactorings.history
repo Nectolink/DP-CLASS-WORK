@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;SOLID&apos;&#x0D;&#x0A;- Original project: &apos;SOLID&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Calculator.java&#x0D;&#x0A;     ICalculate.java&#x0D;&#x0A;     IScientific.java&#x0D;&#x0A;     Main.java&#x0D;&#x0A;     Scientific.java" description="Delete elements" element1="IScientific.java" element2="ICalculate.java" element3="Main.java" element4="Calculator.java" element5="Scientific.java" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1485759117722" subPackages="false" version="1.0"/>
+</session>

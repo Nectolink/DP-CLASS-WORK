@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;ChainOfResponsibility&apos;&#x0D;&#x0A;- Original project: &apos;ChainOfResponsibility&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     AbstractLogger.java&#x0D;&#x0A;     ChainPatternDemo.java&#x0D;&#x0A;     ConsoleLogger.java&#x0D;&#x0A;     ErrorLogger.java&#x0D;&#x0A;     FileLogger.java" description="Delete elements" element1="/src&lt;{AbstractLogger.java" element2="/src&lt;{ChainPatternDemo.java" element3="/src&lt;{ErrorLogger.java" element4="/src&lt;{FileLogger.java" element5="/src&lt;{ConsoleLogger.java" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1489752271366" subPackages="false" version="1.0"/>
+</session>

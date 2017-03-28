@@ -1,0 +1,29 @@
+
+public class User {
+
+	 IDAL dal;
+     public User(Idal dalType)
+     {
+         dal = dalType;
+     }
+     //public User(int IdalType)
+     //{
+     //    if (IdalType == 1)
+     //    {
+     //        dal = new MySqlDAL();
+     //    }
+     //    else { dal = new SqlServerDAL(); }
+     //}
+     public bool IsValid
+     {
+         get { return true; }
+     }
+     public void Add()
+     {
+         if (IsValid)
+         {
+             dal.Add(this);
+         }
+     }
+	
+}
